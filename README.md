@@ -38,9 +38,9 @@ The dataset contains features such as:
     Preprocessing: Data cleaning, feature encoding, and scaling.
     Model Used: Multiple Linear Regression.
     Evaluation Metrics:
-        Mean Absolute Error (MAE)
-        Mean Squared Error (MSE)
         R² Score
+        Mean Absolute Error (MAE)
+        Mean Squared Error (MSE)        
 
 ## 📈 Results & Insights
 
