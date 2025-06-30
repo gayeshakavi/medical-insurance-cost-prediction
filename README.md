@@ -16,7 +16,7 @@ Medical insurance cost prediction is crucial for insurance companies to assess r
 
 ## ⚙️ Technologies Used
 
-    Python 🐍
+    Python 
     Jupyter Notebook 
     Pandas & NumPy for data preprocessing
     Matplotlib & Seaborn for data visualization
